@@ -1,6 +1,6 @@
 ThinkPHP 5.0
 ===============
-##安装方法
+## 安装方法
 
 ~~~
 * git clone https://github.com/aizxin/thinkphp5_layui.git xx
