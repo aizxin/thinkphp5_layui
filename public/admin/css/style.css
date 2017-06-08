@@ -586,3 +586,7 @@ html body .layui-nav .layui-nav-bar {
         margin-bottom: 5px;
     }
 }
+/* page */
+.text-right{
+    text-align: right;
+}
